@@ -15,3 +15,4 @@
 - 9 `enum` - Representa um tipo de dado não ordenado;
 - 10 `unknown` - Representa um any com segurança;
 - 11 `|` - Representa mais de um tipo de retorno;
+- 12 `Tipos Literais` - Representa sub tipo de number, string, etc...
