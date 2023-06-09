@@ -1,0 +1,30 @@
+{
+  "name": "typescript_journey",
+  "version": "1.0.0",
+  "description": "Esse repositório é um espaço pessoal dedicado à minha jornada de aprendizagem em TypeScript. Aqui, mantenho uma coleção organizada de recursos, exemplos de código e projetos relacionados ao TypeScript, com o objetivo de aprofundar meu conhecimento nessa linguagem de programação.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ruan-Portella/TypeScript_Journey.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ruan-Portella/TypeScript_Journey/issues"
+  },
+  "homepage": "https://github.com/Ruan-Portella/TypeScript_Journey#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.59.9",
+    "@typescript-eslint/parser": "^5.59.9",
+    "eslint": "^8.42.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.8.8",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.3"
+  }
+}
