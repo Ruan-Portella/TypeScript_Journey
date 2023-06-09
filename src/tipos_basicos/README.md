@@ -11,3 +11,4 @@
 - 5 `Tuple` - Representa um Array com tipos e tamanhos específicos;
 - 6 `Null` - Representa um tipo de null;
 - 7 `Undefined` - Representa um tipo undefined;
+- 8 `Never` - Representa um tipo nunca retornar;
