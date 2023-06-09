@@ -18,3 +18,4 @@
 - 12 `Tipos Literais` - Representa sub tipo de number, string, etc...
 - 13 `type` - Representa um 'novo tipo';
 - 14 `&` - Representa uma interseção de tipos;
+- 15 `Função como tipo` - Representa o tipo de uma função;
