@@ -2,7 +2,7 @@ const path = require('path');
 
 module.exports = {
   mode: 'development',
-  entry: './src/webpack-ts/index.ts',
+  entry: './src/tipos_basicos/exercicio/index.ts',
   module: {
     rules: [
       {
