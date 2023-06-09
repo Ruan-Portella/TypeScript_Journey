@@ -19,3 +19,4 @@
 - 13 `type` - Representa um 'novo tipo';
 - 14 `&` - Representa uma interseção de tipos;
 - 15 `Função como tipo` - Representa o tipo de uma função;
+- 16 `Structural Type System` -  O foco está na forma ou estrutura dos tipos em vez de seus nomes ou origens;
