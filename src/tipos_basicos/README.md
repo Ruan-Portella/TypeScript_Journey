@@ -5,4 +5,5 @@
 ## Informações aprendidas
 
 - 1 `Any` - Representa uma falta de tipo, qualquer coisa.
+- 2 `Void` - Não retorna nada;
 
