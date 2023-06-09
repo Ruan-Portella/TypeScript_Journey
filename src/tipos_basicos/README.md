@@ -5,6 +5,6 @@
 ## Informações aprendidas
 
 - 1 `Any` - Representa uma falta de tipo, qualquer coisa;
-- 2 `Void` - Não retorna nada;
-- 3 `{}` - Tipa um Objeto no TypeScript;
-
+- 2 `Void` - Representa um tipo de não retorno;
+- 3 `{}` - Representa um tipo de Objeto no TypeScript;
+- 4 `Array<T> | T[]` - Representa um tipo de Array;
