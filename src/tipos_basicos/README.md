@@ -13,3 +13,4 @@
 - 7 `Undefined` - Representa um tipo undefined;
 - 8 `Never` - Representa um tipo nunca retornar;
 - 9 `enum` - Representa um tipo de dado não ordenado;
+- 10 `unknown` - Representa um any com segurança;
