@@ -4,6 +4,7 @@
 
 ## Informações aprendidas
 
-- 1 `Any` - Representa uma falta de tipo, qualquer coisa.
+- 1 `Any` - Representa uma falta de tipo, qualquer coisa;
 - 2 `Void` - Não retorna nada;
+- 3 `{}` - Tipa um Objeto no TypeScript;
 
