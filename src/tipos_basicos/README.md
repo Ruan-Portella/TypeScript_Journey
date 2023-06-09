@@ -16,3 +16,4 @@
 - 10 `unknown` - Representa um any com segurança;
 - 11 `|` - Representa mais de um tipo de retorno;
 - 12 `Tipos Literais` - Representa sub tipo de number, string, etc...
+- 13 `type` - Representa um 'novo tipo'
