@@ -9,3 +9,4 @@
 - 3 `private` - Deixa o atributo indisponível e impossível de ser alterada;
 - 4 `readonly` - Deixa o atributo como sendo único, não podendo ser alterado;
 - 5 `protected` - Deixa o atributo apenas ser utilizado pela classe e pelas suas sub-classes;
+- 6 `Herança` - É um jeito para conseguir usar códigos da classe pai;
