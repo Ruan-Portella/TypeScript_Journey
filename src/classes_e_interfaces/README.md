@@ -10,3 +10,4 @@
 - 4 `readonly` - Deixa o atributo como sendo único, não podendo ser alterado;
 - 5 `protected` - Deixa o atributo apenas ser utilizado pela classe e pelas suas sub-classes;
 - 6 `Herança` - É um jeito para conseguir usar códigos da classe pai;
+- 7 `super` - É um jeito para ter acesso aos métodos e atributos da classe pai;

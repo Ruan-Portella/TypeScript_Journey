@@ -20,6 +20,16 @@ export class Pessoa {
 }
 
 export class Aluno extends Pessoa {
+  constructor(
+    nome: string,
+    sobrenome: string,
+    idade: number,
+    cpf: string,
+    public sala: string,
+  ) {
+    super(nome, sobrenome, idade, cpf);
+  }
+
   public getNomeCompleto(): string {
     return 'isso é do aluno';
   }
@@ -30,8 +40,9 @@ export class Cliente extends Pessoa {
   }
 }
 
-const aluno = new Aluno('ruan', 'portella', 18, '000.000.000-00');
+const aluno = new Aluno('ruan', 'portella', 18, '000.000.000-00', '0001');
 const cliente = new Cliente('portella', 'ruan', 81, '00-000.000.000');
 
 console.log(aluno.getNomeCompleto());
 console.log(cliente.getNomeCompleto());
+console.log(aluno.sala);
