@@ -14,3 +14,4 @@
 - 8 `set <nome>` - É um atributo para setar um atributo private;
 - 9 `get <nome>` - É um atributo para pegar um atributo private;
 - 10 `static <nome>` - É um método só podendo ser chamado pela classe;
+- 11 `abstract` - Garante que a classe vai ter métodos e atributos da classe pai;
