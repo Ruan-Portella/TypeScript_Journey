@@ -11,3 +11,6 @@
 - 5 `protected` - Deixa o atributo apenas ser utilizado pela classe e pelas suas sub-classes;
 - 6 `Herança` - É um jeito para conseguir usar códigos da classe pai;
 - 7 `super` - É um jeito para ter acesso aos métodos e atributos da classe pai;
+- 8 `set <nome>` - É um atributo para setar um atributo private;
+- 9 `get <nome>` - É um atributo para pegar um atributo private;
+- 10 `static <nome>` - É um método só podendo ser chamado pela classe;
